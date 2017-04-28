@@ -8,7 +8,7 @@
 </head>
 <body>
 
-Welcome to Git Repo before commiting to local repository .
+Welcome to Git Repo .
 
 </body>
 </html>
